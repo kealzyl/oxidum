@@ -1,2 +1,2 @@
 # oxidum
-Rust go fast so training fast.
+Rust go fast so training faster.
